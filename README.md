@@ -4,6 +4,7 @@ Welcome to the content repository for the [Life cycle inventory (LCI) lighting d
 LCI Lighting Template | Linked OpenLCA Model
 --------------------- | -------------------
 Excel file (55.2 MB) generates SQL code for linked openLCA model | .zolca file for linked openLCA model _(coming soon)_
+See Tag v1.1 for Excel file without download errors.
 
 LCI-LCIA Guidance | Example LCA Results
 ----------------- | -----------------------
